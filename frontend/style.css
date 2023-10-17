@@ -1,0 +1,192 @@
+/* First Container */
+body{
+position: relative;
+left:900px;
+    
+
+}
+.head-container{
+height: 380px;
+width: 1100px;
+}
+.head img {     
+height: 180px;
+width: 570px;
+position: relative;
+left: 230px;
+border-radius:10px;
+}
+h4{
+position: relative;
+left: 460px;
+top: -170px;
+font-size: 30px;
+color: white;
+}
+
+h2{
+color:darkgrey;
+text-align: center;
+font-size: 26px;
+margin-top: -150px;
+margin-left: -28px;
+}
+.Small img{
+position: relative;
+left: 510px;
+top: -40px;
+height: 40px;
+width:30px;
+}
+.botin1{
+height: 40px;
+width: 80px;
+position:relative;
+left: 500px;
+top:-205px;
+border-radius: 50px;
+vertical-align: auto;
+color:green;
+}
+/* second container */
+#first img{
+   position:relative;
+   
+   left: 600px;
+   top: -93px;
+   height: 200px;
+}
+
+#second img{
+position: relative;
+left: 440px;
+top: -290px;
+height: 200px;     
+}
+#third img{
+position: relative;
+left: 280px;
+top: -486px;
+bottom:  350px;
+border-radius: 5px;
+height:180px;
+opacity: 8px;
+}
+.botin2 {
+height: 40px;
+width: 80px;
+position: relative;
+left: 500px;
+top: -328px;
+border-radius: 50px;
+color: green;
+border-color: white;
+}
+.section-pic img{
+height: 300px;
+width: 900px;
+position:relative;
+top:-450px;
+left:78px;
+padding-bottom:30px;
+margin-bottom: 20px;
+border-radius: 10px;
+       
+}
+.text1{
+position: relative;
+top: -750px;
+right:-120px;
+font-size: 12px;
+color: whitesmoke;
+}
+.text2 {
+position: relative;
+top: -910px;
+right: -690px;
+font-size: 12px;
+color: whitesmoke;
+}
+.text3 {
+    position: relative;
+    top: -1070px;
+    right: -400px;
+    font-size: 12px;
+    color:whitesmoke;
+}
+.botin3 {
+    height: 40px;
+    width: 80px;
+    position: relative;
+    left: 500px;
+    top: -1040px;
+    border-radius: 50px;
+    color: green;
+    border-color: white;
+}
+#about{
+    font-size: 30px;
+    position: relative;
+    top: -450px;
+    left: 468px;
+    color:darkgray;
+}
+.small1 img {
+    position: relative;
+    left: 550px;
+    top: -490px;
+    height: 40px;
+    width: 30px;
+}
+/* Testimonials */
+#testi{
+    color: darkgray;
+    position: relative;
+    left: 450px;
+    bottom:980px;
+    font-size: 35px;
+}
+.testimonial1{
+
+    position: relative;
+    top: -990px;
+    left: 300px;
+}
+.testimonial2{
+    position: relative;
+    top: -1070px;
+    left: 530px;
+}
+.testimonial3{
+    position: relative;
+    top: -1065px;
+    left: 300px;
+}
+.testimonial4{
+    position: relative;
+        top: -1150px;
+        left: 530px;   
+}
+.contact-pic img{
+    position:relative;
+    left: 400px;
+    top: -1100px;
+    height: 100px;
+     width: 250px;
+    
+}
+.contact  {
+    
+    position: relative;
+    font-size: 25px;
+    left: 470px;
+    top: -1120px;
+    color:darkgray;   
+}
+.Under img{
+    position:relative;
+    height: 80px;
+    width: 580px;
+    top: -1050px;
+    left: 250px;
+}
